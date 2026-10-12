@@ -1,0 +1,14 @@
+{
+  "description": "别踩白块 - 微信小程序",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "what-black-block",
+  "condition": {}
+}
